@@ -1,7 +1,7 @@
 //Mostrar contenidos los contenidos de los arreglos
 const productos = [
     {mueble: 'Mesa', precio:562},
-    {mueble: 'Silla', precio:862},
+    {mueble: 'Silla', precio:100},
     {mueble: 'Pupitre', precio:962},
     {mueble: 'Ropero', precio:262},
 ];
